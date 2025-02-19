@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 596.25 289.36">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-family: SourceSansRoman-Bold, 'Source Sans Variable';
+        font-size: 71px;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-5 {
+        font-family: SourceSansRoman-Semibold, 'Source Sans Variable';
+        font-size: 220px;
+        font-variation-settings: 'wght' 600;
+        font-weight: 600;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-3" d="M98.67,205.95v-26.9c-3.83-4.95-6.67-10.71-8.22-16.98-1.2,4.85-3.18,9.39-5.78,13.5v52.35l-25.41-32.98c-2.45.74-4.99,1.29-7.59,1.62l33,42.84v42.98c0,3.87,3.13,7,7,7s7-3.13,7-7v-65.83c.26-.17.5-.37.71-.62l18.88-22.16c-2.26-.89-4.43-1.95-6.5-3.17l-13.09,15.37Z"/>
+    <path class="cls-3" d="M148.18,107.03c1.13-4.53,1.74-9.26,1.74-14.14,0-32.1-26.02-58.11-58.11-58.11s-58.11,26.02-58.11,58.11c0,4.64.56,9.14,1.58,13.46C15.05,111.15,0,129.31,0,151c0,25.35,20.55,45.9,45.9,45.9,1.95,0,3.88-.13,5.77-.36l-20.89-27.11c-1.18-1.53-.9-3.73.64-4.91,1.53-1.18,3.73-.9,4.91.64l22.93,29.77c10.61-3.22,19.59-10.19,25.41-19.36v-64.11c0-3.87,3.13-7,7-7s7,3.13,7,7v67.59c3.58,4.63,8.02,8.55,13.09,11.53l30.23-35.49c1.25-1.47,3.46-1.65,4.93-.39,1.47,1.25,1.65,3.46.39,4.93l-29.06,34.12c5.19,2.04,10.84,3.16,16.75,3.16,25.35,0,45.9-20.55,45.9-45.9,0-20.77-13.8-38.31-32.73-43.98Z"/>
+  </g>
+  <text class="cls-5" transform="translate(180.91 182.6)"><tspan class="cls-7" x="0" y="0">T</tspan><tspan class="cls-6" x="110.44" y="0">r</tspan><tspan x="190.3" y="0">ee</tspan></text>
+  <text class="cls-4" transform="translate(186.72 251.32)"><tspan x="0" y="0">Ph</tspan><tspan class="cls-9" x="82.86" y="0">o</tspan><tspan class="cls-1" x="120.42" y="0">t</tspan><tspan x="146.33" y="0">og</tspan><tspan class="cls-2" x="223.65" y="0">r</tspan><tspan x="249.92" y="0">a</tspan><tspan class="cls-8" x="287.34" y="0">p</tspan><tspan x="327.45" y="0">hy</tspan></text>
+</svg>
