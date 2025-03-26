@@ -1,0 +1,63 @@
+header{
+    background-color: rgb(255, 94, 0);
+    color: black;
+    stroke:rgb(255, 174 , 66) ; 
+    position: relative;  
+    font-size: xx-large;
+    text-align: center;
+    border: solid;
+    border-color: black;
+}   
+
+
+main>section{
+    background-color:rgb(255, 174 , 66);
+    border-radius: 2rem;
+    padding: .5rem;
+    margin: 1rem;
+    border-color: black;
+    border-width: 1rem;
+    border: solid;
+}
+main>section#dinner>h2{
+    color: darkred;
+    stroke: black;
+    font-size:  50px;
+    text-align: center;
+}
+
+img{max-width: 60%;
+margin: auto;
+display: block;}
+
+main>section#beverages{
+    background-color: rgb(255, 174 , 66);
+}
+main>section#beverages>h2{
+    color: darkred;
+    stroke: black;
+    font-size:50px;
+    text-align: center;
+}
+
+
+
+main>section#story{
+    background-color: rgb(255, 174 , 66);
+    text-align: center;
+    font-size: xx-large;
+}
+main>section#story>h2{
+    font-size: 50px;
+    color: darkred;
+}
+
+main>section#footer>h2{
+    background-color: rgb(255, 174 , 66);
+   
+}
+
+body{
+    background-image:url(Images/villageopacity.png);
+    background-color: grey;
+}
