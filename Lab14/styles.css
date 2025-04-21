@@ -82,15 +82,24 @@ section:nth-child(2) {
 
 section > img {
     max-height: 10rem;
+    /*Missing 
+    grid-row-start:;
+    grid-row-end:;
+    grid-column-start:;
+    grid-column-end:;
+    Each property needs a numeric value. If you look at the CSS instructions you will see a image of the grid that will help you determine the numbers*/
+}
+section>p{
+     /*Missing 
+    grid-row-start:;
+    grid-row-end:;
+    grid-column-start:;
+    grid-column-end:;
+    Each property needs a numeric value. If you look at the CSS instructions you will see a image of the grid that will help you determine the numbers*/
 }
 
 .ragnarok section:nth-child(5) {
     display: block;
-}
-
-
-@media (max-width: 799px) {
-
 }
 
 @media (min-width: 800px) {
@@ -101,11 +110,20 @@ section > img {
     }
 
     .title {
+    /*Missing 
+    grid-column-start:;
+    grid-column-end:;
+    Each property needs a numeric value. If you are struggle to figure out the numbers draw out the grid on the main and assign numbers to each line similar to the grid I provided for the section grid.*/
 
     }
 
     section:nth-child(2) {
    
+          /*Missing 
+    grid-column-start:;
+    grid-column-end:;
+    Each property needs a numeric value. If you are struggle to figure out the numbers draw out the grid on the main and assign numbers to each line similar to the grid I provided for the section grid.*/
+
     }
 
     .ragnarok {
@@ -124,6 +142,10 @@ section > img {
     header {
         display: flex;
         justify-content: space-between; 
+        /*Missing
+        grid-column-start:;
+        grid-column-end:;
+        Each property needs a numeric value. If you are struggle to figure out the numbers draw out the grid on the main and assign numbers to each line similar to the grid I provided for the section grid.*/
     }
 
     .sidenav > a {
