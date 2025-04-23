@@ -35,8 +35,7 @@ input[type=color]{
     height: 4rem;
     border-radius: 2rem;
 }
-/*Each type needs the :focus infront of it otherwise the properties will be applied all the time*/
-:focus[type=text],[type=email],[type=date],[type=number],[type=color]{
+:focus[type=text],:focus[type=email],:focus[type=date],:focus[type=number],:focus[type=color]{
 background-color: black;
 color: white;
 outline: none;

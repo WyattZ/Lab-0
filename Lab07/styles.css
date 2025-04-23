@@ -45,13 +45,11 @@ padding: 2rem 4rem;}
     align-items:flex-end;}
     .about-me{display: flex;}
     .about-me h2{flex-basis: 40%;
-    margin-left: 2rem;}
-    /*Missing 
+    margin-left: 2rem;} 
     .about-me div{
         flex-basis: 60%;
         margin-left:2rem;
     }
-    */
     h2{padding-left: 4rem;}
     .gallery{display: flex;
     flex-flow: column wrap;
