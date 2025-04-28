@@ -1,0 +1,87 @@
+header{
+    background-color: #531c01;
+    color: #e8a48e ;
+    font-family: "Cinzel", serif;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-size:large;
+}
+header img{
+    max-width: 100%;
+    max-height: 200px;
+}
+.about{
+    background-image:url(Images/about_us.jpg);
+    font-family: "Chewy", system-ui;
+    color: #531c01;
+    text-align: center;
+    font-size:x-large;
+}
+.about>h1{
+    font-family: "Cinzel", serif;
+    text-align: center;
+}
+
+
+.meet{
+    color: #531c01;
+    font-family: "Chewy", system-ui;
+    background-color: #9f786B;
+    text-align: center;
+ 
+    
+}
+.meet img{
+    max-width: 100%;
+}
+.meet>div{
+    width: 250px;
+display: inline-block;
+    text-align: center;
+}
+.meet>h1{
+    font-family: "Cinzel", serif;
+    text-align: center;
+}
+.menu>h1{
+    font-family: "Cinzel", serif;
+}
+.menu{
+    background: #9f786B;
+    color: #531c01;
+    text-align: center;
+    font-family: "Chewy", system-ui;
+  
+
+}
+.menu div{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 1rem;
+}
+.menu img{
+    max-width: 100%;
+    max-width: 450px;
+    vertical-align: middle;
+}
+.specials{
+    background-color: #e8a48e;
+    text-align: left;
+    font-family: "Chewy", system-ui;
+    max-width: 100%;
+    max-width: 250px;
+}
+footer{
+    background-color: #531c01;
+    color: #e8a48e;
+    text-align: center;
+    font-family: "Chewy", system-ui;
+}
+footer>h1{
+    font-family: "Cinzel", serif;
+}
+html{border: none;
+background-color: #9f786B;}
+    

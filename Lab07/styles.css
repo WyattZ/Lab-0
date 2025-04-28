@@ -50,6 +50,7 @@ padding: 2rem 4rem;}
         flex-basis: 60%;
         margin-left:2rem;
     }
+
     h2{padding-left: 4rem;}
     .gallery{display: flex;
     flex-flow: column wrap;
