@@ -80,22 +80,18 @@ section:nth-child(2) {
     display: block;
 }
 
-section > img {
+section>img{
     max-height: 10rem;
-    /*Missing 
-    grid-row-start:;
-    grid-row-end:;
-    grid-column-start:;
-    grid-column-end:;
-    Each property needs a numeric value. If you look at the CSS instructions you will see a image of the grid that will help you determine the numbers*/
+    grid-row-start:1;
+    grid-row-end:4;
+    grid-column-start:1;
+    grid-column-end:2;
 }
-section>p{
-     /*Missing 
-    grid-row-start:;
-    grid-row-end:;
-    grid-column-start:;
-    grid-column-end:;
-    Each property needs a numeric value. If you look at the CSS instructions you will see a image of the grid that will help you determine the numbers*/
+section>p{ 
+    grid-row-start:4;
+    grid-row-end:5;
+    grid-column-start:1;
+    grid-column-end:3;
 }
 
 .ragnarok section:nth-child(5) {
@@ -110,19 +106,19 @@ section>p{
     }
 
     .title {
-    /*Missing 
-    grid-column-start:;
-    grid-column-end:;
-    Each property needs a numeric value. If you are struggle to figure out the numbers draw out the grid on the main and assign numbers to each line similar to the grid I provided for the section grid.*/
-
+  
+grid-column-start:1;
+grid-column-end:auto;
+grid-row-start: auto;
+grid-row-end: 2;
     }
 
     section:nth-child(2) {
    
-          /*Missing 
-    grid-column-start:;
-    grid-column-end:;
-    Each property needs a numeric value. If you are struggle to figure out the numbers draw out the grid on the main and assign numbers to each line similar to the grid I provided for the section grid.*/
+      
+    grid-column-start:1;
+    grid-column-end:3;
+
 
     }
 
@@ -142,10 +138,8 @@ section>p{
     header {
         display: flex;
         justify-content: space-between; 
-        /*Missing
-        grid-column-start:;
-        grid-column-end:;
-        Each property needs a numeric value. If you are struggle to figure out the numbers draw out the grid on the main and assign numbers to each line similar to the grid I provided for the section grid.*/
+        grid-column-start:2;
+        grid-column-end:3;
     }
 
     .sidenav > a {
