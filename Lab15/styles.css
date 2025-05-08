@@ -106,7 +106,7 @@
     width: calc(100%-4rem);
     height: calc(100vw/1.778);
   }
-  .gallery.slide{display: flex;
+  .gallery .slide{display: flex;
 position: absolute;
 top: 0;
 left: 0;
@@ -178,10 +178,10 @@ margin-top: 1rem;}
   .menu h2:before,.menu h2:before{
     content:url(Images/menu.svg) ;
   }
-  .about h2:before,.menu h2:before{
+  .about h2:before,.menu h2:before{/*.menu should be .about*/
 content: url(Images/coffee.svg);
   }
-  .order h2:before,.menu h2:before{
+  .order h2:before,.menu h2:before{/*.menu should be .order*/
 content: url(Images/take-away.svg);
 width: 2rem;
 top: 1.5rem;
@@ -261,7 +261,7 @@ top: 1.5rem;
   dialog p {
     margin: 0;
   }
-  @media (max-width: 1000px) {
+  @media (max-width: 1000px) {/*Should be min-width not max-width*/
     .gallery img {
       max-width: 50vw;
       height: calc(50vw / 1.778);
